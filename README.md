@@ -1,11 +1,12 @@
-Restart Git Training
+Restart Git Training:
 
-//Below were the fisrt Commit
-Change 1
 
-Change 2
+#For Statging and adding new files that are not in the rep already, use git add 
+git add . 
 
-//Below were the second Commit
-Change 3
+#For commit use 
+git commit -m "<Your Comment here for the commit>"
 
-Change 4
+
+#To View Logs on the repo use:
+git log
